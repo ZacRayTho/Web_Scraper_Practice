@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import requests
 
 with open("./WebScraper/index.html", "r") as f:
     # open syntax, first parameter is the file to open, second parameter is the mode 'r' means read mode
