@@ -1,4 +1,5 @@
 Just a repo to practice webscraping with beautiful soup python library, that hopefully I will implement with a project in the future to do something more with.
+also learning about selenium which can be used to automate tasks in a browser
 <!-- # Python Template
 ## Extra Django Setup
 After creating your project, some additional configuration is required to allow the project to run in Gitpod and make 
